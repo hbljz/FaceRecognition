@@ -42,6 +42,7 @@ __datetime__ = '2017-7-25'
 	直接运行train_model.py开始训练模型系统
 
 三、测试
+
 	1.运行test_model.py
 		#运行test_onePicture(path)来测试一张图片
 		3运行test_onBatch(path)来测试一个目录下的全部图片
